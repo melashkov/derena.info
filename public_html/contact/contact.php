@@ -1,4 +1,9 @@
 <?php
+/*
+Credits: Bit Repository
+URL: http://www.bitrepository.com/
+*/
+
 include 'config.php';
 
 error_reporting (E_ALL ^ E_NOTICE);
